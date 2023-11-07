@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "189608598707",
+    "project_id": "tripsync-bit",
+    "storage_bucket": "tripsync-bit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189608598707:android:a1572a5638492c579fa4c6",
+        "android_client_info": {
+          "package_name": "com.example.bithack_tripsync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189608598707-t4pamhmsaefsbcom6ctlt4840p9nd5qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLi4l5O_DIhaOJjltg-W3_b9W3L0rTgO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189608598707-22mm5i7fqnjr5qno5gjbrcspvfdgsobc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "189608598707-atuvnfcrgd1fqknnpua1478mkrsvppc4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tripsync.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189608598707:android:06bdf9bda58272349fa4c6",
+        "android_client_info": {
+          "package_name": "com.example.tripsync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189608598707-t4pamhmsaefsbcom6ctlt4840p9nd5qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLi4l5O_DIhaOJjltg-W3_b9W3L0rTgO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189608598707-22mm5i7fqnjr5qno5gjbrcspvfdgsobc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "189608598707-atuvnfcrgd1fqknnpua1478mkrsvppc4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tripsync.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
